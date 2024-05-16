@@ -1,0 +1,4 @@
+muhammad khan , 20 , male , 03215654895 , Alfaisal town , lahore , punjab , pakistan , kidney , 130 , doctor
+Danish Shakil , 19 , Male , +923149746879 , Moh rehmat abad khat kalay nowshera , Nowshera , khyber pakhtunkhwa , Pakistan , MBBS , 114 , surgeon
+Qasim Ali , 22 , male , 03229089987 , Gadoon Industrial area , swabi , kpk , Pakistan , Lungs , 155 , Doctor
+farhan farhan , 121 , male , 0322456564 , mianderi , swabi  , kpk , pk , kidney , 153 , doctor
